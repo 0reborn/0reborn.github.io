@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://reborn1627.gitee.io/blog/posts/aop%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E5%9C%A8java%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/</loc>
+    <loc>https://example.com/posts/aop%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E5%9C%A8java%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E7%94%B1%E6%B5%85%E5%85%A5%E6%B7%B1/</loc>
     <lastmod>2019-12-06T18:56:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://reborn1627.gitee.io/blog/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2019-12-06T18:56:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://reborn1627.gitee.io/blog/posts/</loc>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2019-12-06T18:56:30+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://reborn1627.gitee.io/blog/about-hugo/</loc>
+    <loc>https://example.com/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://reborn1627.gitee.io/blog/tags/</loc>
+    <loc>https://example.com/tags/</loc>
   </url>
   
 </urlset>
